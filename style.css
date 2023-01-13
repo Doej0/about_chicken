@@ -1,0 +1,29 @@
+*{box-sizing: border-box;}
+
+body, h1, h2, h3, h4, h5, h6,p,footer {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+body {
+    background-color: #9aa899;
+}
+
+header {
+    background-color: #54577c;
+}
+
+
+.moon-text {
+    font-family: 'Moon Dance', cursive;
+    color: #A63446;
+
+}
+
+#main-text{
+font-size: large;
+}
+
+.big {
+    font-size: 2em;
+    color: #A63446;
+}
